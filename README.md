@@ -1,3 +1,7 @@
+> #Important Message :warning:
+
+> Because I'm actually not working with Rails anymore, I would like to transfer the ownership of this repository and the gem to someone who likes UIkit, Sass and Rails :sunglasses: Just send me a private message on [Twitter](https://twitter.com/NaX13)
+
 # Uikit::Sass:Rails
 
 [![Gem: Version 1.4](https://img.shields.io/gem/v/uikit-sass-rails.svg?style=flat-square)](https://rubygems.org/gems/uikit-sass-rails)
